@@ -1,2 +1,2 @@
 # streamlit study 30
-`streamlidt run ***.py`
+`streamlit run ***.py`
