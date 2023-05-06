@@ -1,3 +1,5 @@
 # streamlit study 30
 `streamlit run ***.py`
-[Streamlit Community Cloud](https://streamlit.io/cloud)
+
+Deploy to [Streamlit Community Cloud](https://streamlit.io/cloud)
+
